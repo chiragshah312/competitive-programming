@@ -1,3 +1,4 @@
+// Count leaves in a graph
 class GfG
 {
     int countLeaves(Node node)
